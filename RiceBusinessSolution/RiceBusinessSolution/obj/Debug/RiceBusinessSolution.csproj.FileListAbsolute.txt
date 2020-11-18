@@ -1,0 +1,9 @@
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\bin\Debug\RiceBusinessSolution.exe.config
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\bin\Debug\RiceBusinessSolution.exe
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\bin\Debug\RiceBusinessSolution.pdb
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.csprojResolveAssemblyReference.cache
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.Form1.resources
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.Properties.Resources.resources
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.csproj.GenerateResource.Cache
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.exe
+c:\users\sasi\documents\visual studio 2015\Projects\RiceBusinessSolution\RiceBusinessSolution\obj\Debug\RiceBusinessSolution.pdb
